@@ -18,7 +18,16 @@
     "index.js",
     "index.d.ts"
   ],
-  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorQueiroz/libshout"
+  },
+  "version": "0.0.2",
+  "keywords": [
+    "libshout",
+    "icecast",
+    "streaming"
+  ],
   "scripts": {
     "install": "npx cmake-js build"
   },
